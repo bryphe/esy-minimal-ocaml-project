@@ -1,0 +1,16 @@
+{
+  "name": "esy-minimal-ocamlbuild-project",
+  "version": "0.1.0",
+  "description": "Reason workflow with Esy",
+  "license": "MIT",
+  "esy": {
+    "build": [
+    ]
+  },
+  "peerDependencies": {
+    "ocaml": "esy-ocaml/ocaml#6aacc05"
+  },
+  "devDependencies": {
+    "ocaml": "esy-ocaml/ocaml#6aacc05"
+  }
+}
