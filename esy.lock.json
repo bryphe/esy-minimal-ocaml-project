@@ -1,12 +1,12 @@
 {
-  "hash": "415f2ff900f63d768196fc42eb3f06db",
+  "hash": "f3789782b226db9c616b97dad1eac570",
   "root": "esy-minimal-ocamlbuild-project@path:.",
   "node": {
-    "ocaml@github:esy-ocaml/ocaml#6aacc05": {
+    "ocaml@github:bryphe/ocaml#577ef7c95": {
       "record": {
         "name": "ocaml",
-        "version": "github:esy-ocaml/ocaml#6aacc05",
-        "source": "github:esy-ocaml/ocaml#6aacc05",
+        "version": "github:bryphe/ocaml#577ef7c95",
+        "source": "github:bryphe/ocaml#577ef7c95",
         "files": [],
         "opam": null
       },
@@ -20,7 +20,7 @@
         "files": [],
         "opam": null
       },
-      "dependencies": [ "ocaml@github:esy-ocaml/ocaml#6aacc05" ]
+      "dependencies": [ "ocaml@github:bryphe/ocaml#577ef7c95" ]
     }
   }
 }

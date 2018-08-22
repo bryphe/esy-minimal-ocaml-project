@@ -8,9 +8,9 @@
     ]
   },
   "peerDependencies": {
-    "ocaml": "esy-ocaml/ocaml#6aacc05"
+    "ocaml": "bryphe/ocaml#577ef7c95"
   },
   "devDependencies": {
-    "ocaml": "esy-ocaml/ocaml#6aacc05"
+    "ocaml": "bryphe/ocaml#577ef7c95"
   }
 }
